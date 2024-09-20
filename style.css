@@ -105,6 +105,7 @@ justify-content: none;
        
        }
     .box-left{
+        margin: 10px;
         position: sticky;
         align-items: center;
         justify-content: center;
@@ -112,9 +113,10 @@ justify-content: none;
     }
     .box-middle
 {
+    margin: 10px;
 position: sticky;
 align-items: center;
-        justify-content: center;
+    justify-content: center;
 }
     .box-right{
         position: sticky;
@@ -125,6 +127,7 @@ align-items: center;
                 position: sticky;
                 align-items: center;
         justify-content: center;
+        margin: 10px;
             }
         }
     
